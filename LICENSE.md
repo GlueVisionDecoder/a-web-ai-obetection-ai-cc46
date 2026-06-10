@@ -1,4 +1,4 @@
-# 
+# Personalizado A web AI object detection extensões. Com redes neurais e análise preditiva — otimizado para máximo desempenho.
 
 
 
